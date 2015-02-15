@@ -2,10 +2,13 @@
 layout: post
 title: Minimal Mistakes Theme
 excerpt: "Demo post displaying the various ways of highlighting code in Markdown."
-tags: [sample post, code, highlighting]
+tags: [blog, theme]
 modified: 2014-09-14
 comments: true
 ---
+
+![screenshot of Minimal Mistakes theme](http://mmistakes.github.io/minimal-mistakes/images/mm-theme-post-600.jpg)
+
 
 One of my favorite Jekyll Octopress themes is [Michael Rose's](http://mademistakes.com) [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes). 
 
